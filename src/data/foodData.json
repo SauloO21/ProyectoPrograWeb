@@ -1,0 +1,686 @@
+[
+    {
+        "id": "C01",
+        "name": "Tortilla de Maíz (1 pieza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C02",
+        "name": "Arroz Cocido (1/2 taza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C03",
+        "name": "Avena en Hojuelas (1/3 taza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C04",
+        "name": "Pan de Caja Integral (1/2 pieza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C05",
+        "name": "Papa Hervida o al Horno (1/2 pieza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "CG1",
+        "name": "Palomitas con Mantequilla (1 taza)",
+        "category": "Cereales",
+        "calories": 115,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 5.0
+    },
+    {
+        "id": "CG2",
+        "name": "Pan Dulce (Concha) (1 pieza)",
+        "category": "Cereales",
+        "calories": 115,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 5.0
+    },
+    {
+        "id": "V01",
+        "name": "Brócoli Cocido (1/2 taza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V02",
+        "name": "Jitomate Bola (1 pieza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V03",
+        "name": "Calabacita Cocida (1/2 taza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V04",
+        "name": "Zanahoria Picada o Rallada (1/2 taza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V05",
+        "name": "Espinaca Cruda (2 tazas)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V06",
+        "name": "Nopal Cocido (1 taza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F01",
+        "name": "Manzana Chica (1 pieza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F02",
+        "name": "Fresa Rebanada (1 taza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F03",
+        "name": "Naranja (1 pieza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F04",
+        "name": "Plátano Tabasco (1/2 pieza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F05",
+        "name": "Uva Roja o Verde (15 piezas)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F06",
+        "name": "Mango Ataulfo (1/2 pieza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "P01",
+        "name": "Pechuga de Pollo Deshuesada (30g)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 40,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 1.0
+    },
+    {
+        "id": "P02",
+        "name": "Clara de Huevo (2 piezas)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 40,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 1.0
+    },
+    {
+        "id": "P03",
+        "name": "Atún en Agua (40g)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 40,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 1.0
+    },
+    {
+        "id": "P04",
+        "name": "Queso Panela (40g)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 55,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 3.0
+    },
+    {
+        "id": "P05",
+        "name": "Huevo Entero (1 pieza)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 75,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "P06",
+        "name": "Queso Amarillo/Americano (1 rebanada)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 100,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 8.0
+    },
+    {
+        "id": "L01",
+        "name": "Leche Descremada (1 taza)",
+        "category": "Lácteos",
+        "calories": 95,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 2.0
+    },
+    {
+        "id": "L02",
+        "name": "Yogurt Light (3/4 taza)",
+        "category": "Lácteos",
+        "calories": 95,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 2.0
+    },
+    {
+        "id": "L03",
+        "name": "Leche de Soya Baja en Grasa (1 taza)",
+        "category": "Lácteos",
+        "calories": 95,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 2.0
+    },
+    {
+        "id": "L04",
+        "name": "Leche Entera (1 taza)",
+        "category": "Lácteos",
+        "calories": 150,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 8.0
+    },
+    {
+        "id": "LG01",
+        "name": "Frijol Negro Cocido (1/2 taza)",
+        "category": "Leguminosas",
+        "calories": 120,
+        "protein": 8.0,
+        "carbs": 20.0,
+        "fat": 1.0
+    },
+    {
+        "id": "LG02",
+        "name": "Lentejas Cocidas (1/2 taza)",
+        "category": "Leguminosas",
+        "calories": 120,
+        "protein": 8.0,
+        "carbs": 20.0,
+        "fat": 1.0
+    },
+    {
+        "id": "G01",
+        "name": "Aguacate (1/3 pieza)",
+        "category": "Grasas",
+        "calories": 70,
+        "protein": 3.0,
+        "carbs": 3.0,
+        "fat": 5.0
+    },
+    {
+        "id": "G02",
+        "name": "Almendras (10 piezas)",
+        "category": "Grasas",
+        "calories": 70,
+        "protein": 3.0,
+        "carbs": 3.0,
+        "fat": 5.0
+    },
+    {
+        "id": "G03",
+        "name": "Aceite de Oliva (1 cdita)",
+        "category": "Grasas",
+        "calories": 45,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "G04",
+        "name": "Mantequilla (1 1/2 cditas)",
+        "category": "Grasas",
+        "calories": 45,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "Z01",
+        "name": "Azúcar Blanca o Morena (2 1/2 cditas)",
+        "category": "Azúcares",
+        "calories": 40,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 0.0
+    },
+    {
+        "id": "Z02",
+        "name": "Miel de Abeja (2 cditas)",
+        "category": "Azúcares",
+        "calories": 40,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 0.0
+    },
+    {
+        "id": "Z03",
+        "name": "Chocolate Amargo (1/3 pieza)",
+        "category": "Azúcares",
+        "calories": 85,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 5.0
+    },
+    {
+        "id": "LE01",
+        "name": "Limón (1/2 pieza)",
+        "category": "Alimentos Libres de Energía",
+        "calories": 0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0
+    },
+    {
+        "id": "LE02",
+        "name": "Café Americano Descafeinado (1 taza)",
+        "category": "Alimentos Libres de Energía",
+        "calories": 0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C06",
+        "name": "Amaranto Tostado (1/4 taza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C07",
+        "name": "Galletas Marías (5 piezas)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "C08",
+        "name": "Pan Tostado (1 pieza)",
+        "category": "Cereales",
+        "calories": 70,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "CG3",
+        "name": "Barra de Granola (1/2 pieza)",
+        "category": "Cereales",
+        "calories": 115,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 5.0
+    },
+    {
+        "id": "CG4",
+        "name": "Papas Fritas (6 piezas)",
+        "category": "Cereales",
+        "calories": 115,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 5.0
+    },
+    {
+        "id": "V07",
+        "name": "Lechuga (3 tazas)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V08",
+        "name": "Pepino Rebanado (1 1/2 taza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V09",
+        "name": "Pimiento Morrón (1 pieza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V10",
+        "name": "Chícharo (3 cucharadas)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "V11",
+        "name": "Jícama Picada (1/2 taza)",
+        "category": "Verduras",
+        "calories": 25,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F07",
+        "name": "Durazno Chico (2 piezas)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F08",
+        "name": "Guayaba (3 piezas)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F09",
+        "name": "Melón Picado (1 taza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F10",
+        "name": "Sandía Picada (1 taza)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "F11",
+        "name": "Tuna (2 piezas)",
+        "category": "Frutas",
+        "calories": 60,
+        "protein": 0.0,
+        "carbs": 15.0,
+        "fat": 0.0
+    },
+    {
+        "id": "P07",
+        "name": "Bistec de Res (30g)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 40,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 1.0
+    },
+    {
+        "id": "P08",
+        "name": "Camarón Cocido (5 piezas)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 40,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 1.0
+    },
+    {
+        "id": "P09",
+        "name": "Hígado de Pollo (30g / 2 cdas)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 55,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 3.0
+    },
+    {
+        "id": "P10",
+        "name": "Jamón de Pavo/Pierna (2 rebanadas)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 55,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 3.0
+    },
+    {
+        "id": "P11",
+        "name": "Queso Parmesano (3 1/2 cdas)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 75,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "P12",
+        "name": "Chicharrón (12g)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 75,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "P13",
+        "name": "Queso Oaxaca (30g)",
+        "category": "Alimentos de Origen Animal",
+        "calories": 100,
+        "protein": 7.0,
+        "carbs": 0.0,
+        "fat": 8.0
+    },
+    {
+        "id": "L05",
+        "name": "Leche en Polvo Descremada (4 cdas)",
+        "category": "Lácteos",
+        "calories": 95,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 2.0
+    },
+    {
+        "id": "L06",
+        "name": "Yogurt para Beber Bajo en Grasa y Azúcar (1 pieza)",
+        "category": "Lácteos",
+        "calories": 95,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 2.0
+    },
+    {
+        "id": "L07",
+        "name": "Yogurt Natural (1 taza)",
+        "category": "Lácteos",
+        "calories": 150,
+        "protein": 9.0,
+        "carbs": 12.0,
+        "fat": 8.0
+    },
+    {
+        "id": "LG03",
+        "name": "Alubias Cocidas (1/2 taza)",
+        "category": "Leguminosas",
+        "calories": 120,
+        "protein": 8.0,
+        "carbs": 20.0,
+        "fat": 1.0
+    },
+    {
+        "id": "LG04",
+        "name": "Garbanzos Cocidos (1/2 taza)",
+        "category": "Leguminosas",
+        "calories": 120,
+        "protein": 8.0,
+        "carbs": 20.0,
+        "fat": 1.0
+    },
+    {
+        "id": "G05",
+        "name": "Nuez (3 piezas)",
+        "category": "Grasas",
+        "calories": 70,
+        "protein": 3.0,
+        "carbs": 3.0,
+        "fat": 5.0
+    },
+    {
+        "id": "G06",
+        "name": "Pistaches (18 piezas)",
+        "category": "Grasas",
+        "calories": 70,
+        "protein": 3.0,
+        "carbs": 3.0,
+        "fat": 5.0
+    },
+    {
+        "id": "G07",
+        "name": "Aceite de Canola/Soya (1 cdita)",
+        "category": "Grasas",
+        "calories": 45,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "G08",
+        "name": "Margarina Baja en Grasa (2 cditas)",
+        "category": "Grasas",
+        "calories": 45,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 5.0
+    },
+    {
+        "id": "Z04",
+        "name": "Gelatina Preparada con Agua (1/3 taza)",
+        "category": "Azúcares",
+        "calories": 40,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 0.0
+    },
+    {
+        "id": "Z05",
+        "name": "Salsa Catsup (2 cucharadas)",
+        "category": "Azúcares",
+        "calories": 40,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 0.0
+    },
+    {
+        "id": "Z06",
+        "name": "Helado de Leche (1/3 taza)",
+        "category": "Azúcares",
+        "calories": 85,
+        "protein": 0.0,
+        "carbs": 10.0,
+        "fat": 5.0
+    },
+    {
+        "id": "LE03",
+        "name": "Té sin Azúcar (Manzanilla, Canela, etc.)",
+        "category": "Alimentos Libres de Energía",
+        "calories": 0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0
+    },
+    {
+        "id": "LE04",
+        "name": "Mostaza (1 cucharadita)",
+        "category": "Alimentos Libres de Energía",
+        "calories": 0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0
+    }
+]
